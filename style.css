@@ -461,6 +461,10 @@ i>p{
     transition: .35s var(--ease);
     position: relative;
     z-index: 1;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap:wrap;
 }
 .card:hover{
     transform: translate(0,-5px);
