@@ -481,6 +481,7 @@ i>p{
 .card-top{
     height: 52%;
     align-items: center;
+    gap:30px;
     /* border: 1px solid black; */
 }
 .card-bottom{
