@@ -465,6 +465,7 @@ i>p{
     justify-content:center;
     align-items: center;
     flex-wrap:wrap;
+    gap:30px;
 }
 .card:hover{
     transform: translate(0,-5px);
